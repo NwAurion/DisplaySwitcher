@@ -1,0 +1,4 @@
+G:\Workspaces\Visual Studio\DisplaySwitcher\HarwareHelperLib\bin\Release\HardwareHelperLib.dll
+G:\Workspaces\Visual Studio\DisplaySwitcher\HarwareHelperLib\bin\Release\HardwareHelperLib.pdb
+G:\Workspaces\Visual Studio\DisplaySwitcher\HarwareHelperLib\obj\Release\HardwareHelperLib.dll
+G:\Workspaces\Visual Studio\DisplaySwitcher\HarwareHelperLib\obj\Release\HardwareHelperLib.pdb
